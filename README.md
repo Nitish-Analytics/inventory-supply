@@ -153,10 +153,8 @@ These findings can help Operations teams prioritize:
 
 ## 📷 Dashboard Preview
 
-```text
-![Inventory Analyisis](dashboard/Inventory Analysis.png)
-```text
-![Product Analysis](dashboard/Product Analysis.png)
+![Inventory Analysis](dashboard/Inventory%20Analysis.png)
 
+![Product Analysis](dashboard/Product%20Analysis.png)
 ```text
 ![Inventory & Operations Dashboard](dashboard.png)
